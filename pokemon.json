@@ -1,8 +1,8 @@
 [
-  { "id": 1, "name": "Bulbasaur", "type": "Planta/Veneno", "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png" },
+  { "id": 1, "name": "Bulbasaur", "type": "Planta/Veneno", "imageUrl": "https://pbs.twimg.com/media/GJ3z6d0WkAAlUcI?format=jpg&name=small" },
   { "id": 2, "name": "Ivysaur", "type": "Planta/Veneno", "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/2.png" },
   { "id": 3, "name": "Venusaur", "type": "Planta/Veneno", "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/3.png" },
-  { "id": 4, "name": "Charmander", "type": "Fuego", "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/4.png" },
+  { "id": 4, "name": "Charmander", "type": "Fuego", "imageUrl": "https://preview.redd.it/make-the-most-of-charmander-v0-pznr3o2j7taa1.jpg?auto=webp&s=aada347fd0fc126b2e8ca215ad59e62ea1a85eb5" },
   { "id": 5, "name": "Charmeleon", "type": "Fuego", "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/5.png" },
   { "id": 6, "name": "Charizard", "type": "Fuego/Volador", "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png" },
   { "id": 7, "name": "Squirtle", "type": "Agua", "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/7.png" },
@@ -10,3 +10,4 @@
   { "id": 9, "name": "Blastoise", "type": "Agua", "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/9.png" },
   { "id": 10, "name": "Caterpie", "type": "Bicho", "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10.png" }
 ]
+
