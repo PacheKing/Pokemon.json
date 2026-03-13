@@ -1,13 +1,14 @@
 [
   { "id": 1, "name": "Bulbasaur", "type": "Planta/Veneno", "imageUrl": "https://pbs.twimg.com/media/GJ3z6d0WkAAlUcI?format=jpg&name=small" },
-  { "id": 2, "name": "Ivysaur", "type": "Planta/Veneno", "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/2.png" },
-  { "id": 3, "name": "Venusaur", "type": "Planta/Veneno", "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/3.png" },
+  { "id": 2, "name": "Ivysaur", "type": "Planta/Veneno", "imageUrl": "https://64.media.tumblr.com/1d48bbe31fcec96ecfc2d4967d40183b/tumblr_nux74deMPv1scncwdo1_540.gif" },
+  { "id": 3, "name": "Venusaur", "type": "Planta/Veneno", "imageUrl": "https://www.nintenderos.com/wp-content/uploads/2026/01/Mazo-Mega-Venusaur-ex-JCC-Pokemon-Pocket.jpg" },
   { "id": 4, "name": "Charmander", "type": "Fuego", "imageUrl": "https://preview.redd.it/make-the-most-of-charmander-v0-pznr3o2j7taa1.jpg?auto=webp&s=aada347fd0fc126b2e8ca215ad59e62ea1a85eb5" },
-  { "id": 5, "name": "Charmeleon", "type": "Fuego", "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/5.png" },
-  { "id": 6, "name": "Charizard", "type": "Fuego/Volador", "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png" },
-  { "id": 7, "name": "Squirtle", "type": "Agua", "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/7.png" },
-  { "id": 8, "name": "Wartortle", "type": "Agua", "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/8.png" },
-  { "id": 9, "name": "Blastoise", "type": "Agua", "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/9.png" },
-  { "id": 10, "name": "Caterpie", "type": "Bicho", "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10.png" }
+  { "id": 5, "name": "Charmeleon", "type": "Fuego", "imageUrl": "https://www.nicepng.com/png/detail/18-187234_charmeleon-pokemon-charmeleon.png" },
+  { "id": 6, "name": "Charizard", "type": "Fuego/Volador", "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTczfd2Q4y7SGNJvVetOdfO7HYFCmora_foeQ&s" },
+  { "id": 7, "name": "Squirtle", "type": "Agua", "imageUrl": "https://www.nintenderos.com/wp-content/uploads/2023/06/squirtle-pokemon.jpg.webp" },
+  { "id": 8, "name": "Wartortle", "type": "Agua", "imageUrl": "https://preview.redd.it/i-saw-the-post-about-blastoise-losing-wartortles-ears-and-v0-ntwqeb85o9bb1.png?auto=webp&s=4a68845a4ec56552c8fa6e679fa3180e6be01ae3" },
+  { "id": 9, "name": "Blastoise", "type": "Agua", "imageUrl": "https://db.pokemongohub.net/_next/image?url=%2Fimages%2Fofficial%2Ffull%2F009.webp&w=640&q=75" },
+  { "id": 10, "name": "Caterpie", "type": "Bicho", "imageUrl": "https://preview.redd.it/caterpie-supremacy-v0-mvwtmu5aiwge1.jpg?width=224&format=pjpg&auto=webp&s=3340c4cfd389a634fb0f30d60b3a54beee69b785" }
 ]
+
 
